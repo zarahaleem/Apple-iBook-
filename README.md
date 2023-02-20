@@ -9,6 +9,11 @@ One of these computer laptops was the iBook G4. Launched in October 2003, it was
 ![Apple iBook G4](https://guide-images.cdn.ifixit.com/igi/VtNcicMm1ZvLl3Rw.standard)
 
 
+Technical Information-
+- Processor: PowerPC G4 (7447A)
+- Graphics Card:  ATI Radeon 9550 with 32 MB of SDRAM
+- Storage: 60 GB 4200-rpm Ultra/ATA 100
+- Memory: 
 
 Processor type and speed
 Graphics card(GPU) specs (type/brand/speed/memory)
