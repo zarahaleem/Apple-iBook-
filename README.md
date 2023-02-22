@@ -23,8 +23,3 @@ Technical Information-
   <li>Storage:</li>
   <li>Memory: 8.00 GB</>
 </ul>
-
-Processor type and speed
-Graphics card(GPU) specs (type/brand/speed/memory)
-Storage (HDD or SSD and amount of space)
-Memory (RAM)
