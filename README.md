@@ -15,13 +15,16 @@ Technical Information-
 - Storage: 60 GB 4200-rpm Ultra/ATA 100
 - Memory: 
 
+<p>My Current HP Windows 10 Pro as a comparison-</p>
+
+<ul>
+  <li>Processor: Intel(R) Core(TM) i7-10510U CPU</li>
+  <li>Graphics Card: Intel(R) UHD Graphics</li>
+  <li>Storage:</li>
+  <li>Memory: 8.00 GB</>
+</ul>
+
 Processor type and speed
 Graphics card(GPU) specs (type/brand/speed/memory)
 Storage (HDD or SSD and amount of space)
 Memory (RAM)
-
-HP Windows 10 Pro
-Processor - Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz   2.30 GHz
-Memory - 8.00 GB
-Graphics Card - Intel(R) UHD Graphics
-Storage - 
