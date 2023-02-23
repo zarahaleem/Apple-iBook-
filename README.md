@@ -9,17 +9,19 @@ One of these computer laptops was the iBook G4. Launched in October 2003, it was
 ![Apple iBook G4](https://guide-images.cdn.ifixit.com/igi/VtNcicMm1ZvLl3Rw.standard)
 
 
-Technical Information-
-- Processor: PowerPC G4 (7447A)
+Technical Specifications-
+- Processor: 1.2GHz PowerPC G4
 - Graphics Card:  ATI Radeon 9550 with 32 MB of SDRAM
-- Storage: 60 GB 4200-rpm Ultra/ATA 100
-- Memory: 
+- Storage: 30GB, 40GB or 60GB Ultra ATA hard disk drive
+- Memory: 256MB PC2100 (266MHz); 1.25GB maximum; 1 available expansion slot
 
 <p>My Current HP Windows 10 Pro as a comparison-</p>
 
 <ul>
   <li>Processor: Intel(R) Core(TM) i7-10510U CPU</li>
   <li>Graphics Card: Intel(R) UHD Graphics</li>
-  <li>Storage:</li>
-  <li>Memory: 8.00 GB</>
+  <li>Storage: 8:00 GB</li>
+  <li>Memory: 345 GB</>
 </ul>
+
+Technical Information from [iBook](https://en.wikipedia.org/wiki/IBook#iBook_G4_(%22Snow%22)) and [iBook G4 (Early 2004) - Technical Specifications](https://support.apple.com/kb/sp81?locale=en_US)
