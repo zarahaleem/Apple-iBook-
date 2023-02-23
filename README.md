@@ -23,5 +23,7 @@ Technical Specifications-
   <li>Storage: 8:00 GB</li>
   <li>Memory: 345 GB</>
 </ul>
-
+  <br>
+  <br>
+  
 Technical Information from [iBook](https://en.wikipedia.org/wiki/IBook#iBook_G4_(%22Snow%22)) and [iBook G4 (Early 2004) - Technical Specifications](https://support.apple.com/kb/sp81?locale=en_US)
