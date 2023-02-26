@@ -26,4 +26,4 @@ Technical Specifications-
   <br>
   <br>
   
-Technical Information from [iBook](https://en.wikipedia.org/wiki/IBook#iBook_G4_(%22Snow%22)) and [iBook G4 (Early 2004) - Technical Specifications](https://support.apple.com/kb/sp81?locale=en_US)
+Resources: [iBook](https://en.wikipedia.org/wiki/IBook#iBook_G4_(%22Snow%22)), [iBook G4 (Early 2004) - Technical Specifications](https://support.apple.com/kb/sp81?locale=en_US)
