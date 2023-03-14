@@ -1,6 +1,6 @@
 # *iBook G4*
 
-From 1999, Computer designed, manufactured and sold a line of laptop computers called iBook. With less expensive costs and lower specs than Apple's higher-end PowerBook laptop brand, the line catered to the entry-level, consumer, and educational markets.
+From 1999, Apple designed, manufactured and sold a line of laptop computers called iBook. With less expensive costs and lower specs than Apple's higher-end PowerBook laptop brand, the line catered to the entry-level, consumer, and educational markets.
 
 ---
 
